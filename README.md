@@ -10,11 +10,11 @@
 
 ### Connect with me:
 
-[<img align="left" witdh="22px" src="https://cdn.jsdelivr.et/npm/simple-icons@v3/icons/safari.svg" />][website] 
-[<img align="left" witdh="22px" src="https://cdn.jsdelivr.et/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
-[<img align="left" witdh="22px" src="https://cdn.jsdelivr.et/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img align="left" witdh="22px" src="https://cdn.jsdelivr.et/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
-[<img align="left" witdh="22px" src="https://cdn.jsdelivr.et/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
+[<img align="left" witdh="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/safari.svg" />][website] 
+[<img align="left" witdh="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img align="left" witdh="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" witdh="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+[<img align="left" witdh="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 
 <br />
 <br />
