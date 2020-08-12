@@ -6,8 +6,24 @@
 - 🌱 I’m currently learning Python and Rust
 - 👯 I’m looking to collaborate on writing a technical book (O'Reilly, No Starch Press, Packt,...) on Cloud/Storage/CMP/Automation
 - 💬 Ask me about Cloud Computing/Management
-- 📫 How to reach me: DM via Twitter https://twitter.com/filipv 
 - 😄 Pronouns: he/him/his
+
+### Connect with me:
+
+[<img align="left" alt="filipv.net" witdh="22px" src="https://cdn.jsdelivr.et/npm/simple-icons@v3/icons/web.svg" />][website] 
+[<img align="left" alt="filipv.net" witdh="22px" src="https://cdn.jsdelivr.et/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img align="left" alt="filipv.net" witdh="22px" src="https://cdn.jsdelivr.et/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="filipv.net" witdh="22px" src="https://cdn.jsdelivr.et/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+[<img align="left" alt="filipv.net" witdh="22px" src="https://cdn.jsdelivr.et/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
+
+<br />
+<br />
+
+[website]: https://filipv.net 
+[youtube]: https://www.youtube.com/channel/UCdWehgNTZOn_C8SLvTJvmoQ
+[twitter]: https://twitter.com/filipv
+[linkedin]: https://www.linkedin.com/in/verloy/
+[instagram]: https://www.instagram.com/filip.v/
 
 <!--
 **fverloy/fverloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
