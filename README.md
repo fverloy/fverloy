@@ -2,11 +2,11 @@
 
 ### I'm currently the Field CTO for the EMEA region at Rubrik.
 
-- 🔭 I’m currently working on buildig a rocket ship at Rubrik 🚀
-- 🌱 I’m currently learning Python and Rust
-- 👯 I’m looking to collaborate on writing a technical book (O'Reilly, No Starch Press, Packt,...) on Cloud/Storage/CMP/Automation
+- 🚀 I’m currently working on buildig a rocket ship at Rubrik 
+- ⚙️ I’m currently learning Rust 
+- 📚 I’m looking to collaborate on writing a technical book (O'Reilly, No Starch Press, Packt,...) on Cloud/Storage/Networking/CMP/Automation
 - 💬 Ask me about Cloud Computing/Management
-- 😄 Pronouns: he/him/his
+- 🃏 Pronouns: he/him/his
 
 ### Connect with me:
 
