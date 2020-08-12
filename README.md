@@ -1,6 +1,6 @@
-### Hi there, I'm Filip Verloy 👋
+## Hi there, I'm Filip Verloy 👋
 
-## I'm currently the Field CTO for the EMEA region at Rubrik.
+### I'm currently the Field CTO for the EMEA region at Rubrik.
 
 - 🔭 I’m currently working on buildig a rocket ship at Rubrik 🚀
 - 🌱 I’m currently learning Python and Rust
@@ -8,7 +8,6 @@
 - 💬 Ask me about Cloud Computing/Management
 - 📫 How to reach me: DM via Twitter https://twitter.com/filipv 
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: 
 
 <!--
 **fverloy/fverloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
