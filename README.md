@@ -4,8 +4,8 @@
 
 - 🚀 I’m currently working on buildig a rocket ship at Rubrik 
 - ⚙️ I’m currently learning Rust 
-- 📚 I’m looking to collaborate on writing a technical book (O'Reilly, No Starch Press, Packt,...) on Cloud/Storage/Networking/CMP/Automation
-- 💬 Ask me about Cloud, Data Management.
+- 📚 I’m looking to collaborate on writing a technical book (O'Reilly, No Starch Press, Packt,...) on Cloud/Storage/Networking/Automation
+- 💬 Ask me about Cloud, Data Management, Cloud Networking.
 - 🃏 Pronouns: he/him/his
 
 ### Connect with me:
