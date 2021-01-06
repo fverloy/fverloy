@@ -2,10 +2,10 @@
 
 ### I'm currently the Field CTO for the EMEA region at Rubrik.
 
-- 🚀 I’m currently working on buildig a rocket ship at Rubrik 
+- 🚀 I’m currently working on building a rocket ship at Rubrik 
 - ⚙️ I’m currently learning Rust 
-- 📚 I’m looking to collaborate on writing a technical book (O'Reilly, No Starch Press, Packt,...) on Cloud/Storage/Networking/Automation
-- 💬 Ask me about Cloud, Data Management, Cloud Networking.
+- 📚 I’m looking to collaborate on writing a technical book (O'Reilly, No Starch Press, Packt,...) on Cloud/Storage/Networking/Automation/IaC
+- 💬 Ask me about Cloud, Data Management, Cloud Networking, Infrastructure as Code.
 - 🃏 Pronouns: he/him/his
 
 ### Connect with me:
