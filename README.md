@@ -1,6 +1,6 @@
 ## Hi there, I'm Filip Verloy 👋
 
-### I'm currently the Field CTO and Chief Evangelist at Noname Security.
+### I'm currently the EMEA Field CTO at Noname Security.
 
 - 🚀 I’m currently working on building a rocket ship at Noname Security. 
 - ⚙️ I’m currently learning Rust. 
