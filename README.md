@@ -2,8 +2,7 @@
 
 ### I'm currently the EMEA Field CTO at Noname Security.
 
-- 🚀 I’m currently working on building a rocket ship at Noname Security. 
-- ⚙️ I’m currently learning Rust. 
+- 🚀 I’m currently working on building a rocket ship at Noname Security.  
 - 📚 I’m looking to collaborate on writing a technical book (O'Reilly, No Starch Press, Packt,...) on Cloud/Storage/Networking/Automation/IaC
 - 💬 Ask me about Cloud, Data Management, Cloud Networking, Infrastructure as Code, API Security.
 - 🃏 Pronouns: he/him/his
