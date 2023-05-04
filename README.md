@@ -1,6 +1,6 @@
 ## Hi there, I'm Filip Verloy 👋
 
-### I'm currently the EMEA Field CTO at Noname Security.
+### I'm currently the Field CTO at Noname Security.
 
 - 🚀 I’m currently working on building a rocket ship at Noname Security.  
 - 📚 I’m looking to collaborate on writing a technical book (O'Reilly, No Starch Press, Packt,...) on Cloud/Storage/Networking/Automation/IaC
